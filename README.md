@@ -5,4 +5,4 @@ This is useful for determining whether two hashes have the same content.
 Most common use cases include:
  + Determining if the right password was discovered during a penetration test
  + Determining if the correct file or software was downloaded or installed
- + checking files for tampering
+ + checking files for tampering or collisions
